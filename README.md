@@ -1,6 +1,6 @@
 ### Hi there this is Nneka's repository 👋
 
-<!--
+
 **Nneka-cmd/Nneka-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ I am a PhD student in the Soil and Crop Sciences Department at Colorado State Un
 
 - 📫 How to reach me: ... [nneka.okereke@colostate.edu] (mailto:nneka.okereke@colostate.edu)
 
--->
+
