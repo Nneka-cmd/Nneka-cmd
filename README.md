@@ -9,6 +9,7 @@ I am a PhD student in the Soil and Crop Sciences Department at Colorado State Un
 
 - 🌱 Several modules in this class [CMB-515](https://github.com/Nneka-cmd/CM515-course-2024) were incredibly helpful and will be beneficial for my current research including creating Rmarkdown for [Data visualization](https://github.com/Nneka-cmd/CM515-course-2024/tree/main/modules/13_Presenting_Data), [data management](https://github.com/Nneka-cmd/CM515-course-2024/tree/main/modules/03_Files_and_Folders) and developing data repositories for [version control](https://github.com/Nneka-cmd/CM515-course-2024/tree/main/modules/15_Github_Portfolio)    
 
+[__Useful links__](https://github.com/Nneka-cmd/My_resources_Nneka?tab=readme-ov-file#genomics)
 
 - 📫 How to reach me: ... nneka.okereke@colostate.edu
 
